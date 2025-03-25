@@ -4,10 +4,6 @@
 
 This repository contains the solutions for the evaluation tasks for the ArtExtract project under the HumanAI Umbrella Organization as part of Google Summer of Code (GSoC) 2025.
 
-## Submission Instructions
-
-Please send your CV and a link to this GitHub repository, including the Jupyter notebooks and a PDF version with outputs, to **human-ai@cern.ch** with the subject:
-
 ```
 Evaluation Test: ArtExtract
 ```
